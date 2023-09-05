@@ -12,5 +12,4 @@ public class Pattern2{
         System.out.println("|      |");
         System.out.println(" - - - ");
     }
-
 }
